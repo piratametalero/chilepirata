@@ -4,9 +4,9 @@ Necesita saber donde asistir esa serie? pelicula? Bueno ese seria el lugar ideal
 
 ![GitHub Logo](image/reddit_pirata_chile_mitad.png)
 
-# AI (docs/ai.md)
-- [Getting Started](./docs/getting-started.md)
-- [API Reference](./docs/api.md)
+# AI 
+- [AI](.docs/ai.md)
+
 
 
 
