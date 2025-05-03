@@ -2,7 +2,7 @@
 
 Necesita saber donde asistir esa serie? pelicula? Bueno ese seria el lugar ideal
 
-![GitHub Logo](https://ibb.co/TqR4Zr09)
+![GitHub Logo]([url=https://ibb.co/TqR4Zr09][img]https://i.ibb.co/G3kWXFMz/reddit-pirata-chile-mitad.png[/img][/url])
 
 # Recomendaciones
 
